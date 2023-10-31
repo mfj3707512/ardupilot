@@ -9,7 +9,7 @@ For Detailed information on the CubeOrangePlus see the
 
 ## Features
 
- - STM32H743 microcontroller
+ - STM32H757 microcontroller
  - Three IMUs, ICM42688, ICM20948 and ICM20649
  - internal heater for IMU temperature control
  - internal vibration isolation for first two IMUs
